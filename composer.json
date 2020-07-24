@@ -14,5 +14,17 @@
     },
     "require-dev": {
         "phpunit/phpunit": "9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Anandalee\\Permission\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Anandalee\\Permission\\Providers\\AppServiceProvider"
+            ]
+        }
     }
 }
