@@ -1,0 +1,18 @@
+{
+    "name": "anandalee/laravel-permission",
+    "description": "Laravel RBAC(role base access control) permission package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "anandakurnia",
+            "email": "ananda@solen.id"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "staudenmeir/eloquent-has-many-deep": "1.11"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9"
+    }
+}
