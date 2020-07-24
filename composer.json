@@ -20,6 +20,11 @@
             "Anandalee\\Permission\\": "src"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Anandalee\\Permission\\Tests\\": "tests"
+        }
+    },
     "extra": {
         "laravel": {
             "providers": [
