@@ -1,3 +1,2 @@
 # laravel-permission
-
-Super simple laravel permission package inspired from spartie/laravel-permission
+Simplified laravel permission package inspired from spartie/laravel-permission
